@@ -4,8 +4,7 @@
 
 <br/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=11998E&center=true&vCenter=true&width=600&lines=Full-Stack+Hotel+Booking+System+🏨;Built+with+CodeIgniter+%2B+PHP+%2B+MySQL;Admin+Dashboard+%2B+Room+Management;Open+Source+%7C+Free+to+Use+✅" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=11998E&center=true&vCenter=true&width=600&lines=Full-Stack+Hotel+Booking+System+%F0%9F%8F%A8;Built+with+CodeIgniter+%2B+PHP+%2B+MySQL;Admin+Dashboard+%2B+Room+Management;Open+Source+%7C+Free+to+Use+%E2%9C%85" alt="Typing SVG" />
 
 <br/><br/>
 
