@@ -445,7 +445,7 @@ Got a problem or a question? Reach out!
 
 | Channel | Link |
 |:---|:---|
-| 📧 **Email** | [karthikshet21@yahoo.com](mailto:karthikshet21@yahoo.com) |
+| 📧 **Email** | [karthikshet21@yahoo.com](mailto:karthikbm5zohomail.in) |
 | 💬 **Telegram** | [Chat\_kpt](https://t.me/Chat_kpt) |
 | 🐞 **Bug Report** | [Open an Issue](https://github.com/karthikbm33/Hotel-Room-Booking-Management-System/issues/new) |
 
